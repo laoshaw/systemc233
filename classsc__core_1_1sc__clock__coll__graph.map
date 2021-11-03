@@ -1,0 +1,15 @@
+<map id="sc_core::sc_clock" name="sc_core::sc_clock">
+<area shape="rect" id="node1" title=" " alt="" coords="201,1883,395,2268"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__signal.html" title=" " alt="" coords="201,1552,395,1732"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__signal__t.html" title=" " alt="" coords="279,1147,447,1459"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__signal__inout__if.html" title=" " alt="" coords="487,910,632,1002"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1sc__signal__in__if.html" title=" " alt="" coords="467,535,635,686"/>
+<area shape="rect" id="node6" href="$classsc__core_1_1sc__interface.html" title=" " alt="" coords="569,152,715,273"/>
+<area shape="rect" id="node7" href="$classsc__core_1_1sc__signal__write__if.html" title=" " alt="" coords="659,550,806,671"/>
+<area shape="rect" id="node8" href="$classsc__core_1_1sc__signal__channel.html" title=" " alt="" coords="115,815,283,1097"/>
+<area shape="rect" id="node9" href="$classsc__core_1_1sc__prim__channel.html" title=" " alt="" coords="241,469,435,752"/>
+<area shape="rect" id="node10" href="$classsc__core_1_1sc__object.html" title=" " alt="" coords="258,5,418,420"/>
+<area shape="rect" id="node11" href="$classsc__core_1_1sc__event.html" title=" " alt="" coords="5,499,151,723"/>
+<area shape="rect" id="node12" href="$structsc__core_1_1sc__writer__policy__check.html" title=" " alt="" coords="307,910,462,1002"/>
+<area shape="rect" id="node13" href="$classsc__core_1_1sc__time.html" title=" " alt="" coords="420,1508,544,1776"/>
+</map>

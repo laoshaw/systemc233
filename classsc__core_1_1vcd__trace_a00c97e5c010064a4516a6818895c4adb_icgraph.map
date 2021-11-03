@@ -1,0 +1,20 @@
+<map id="sc_core::vcd_trace::compose_data_line" name="sc_core::vcd_trace::compose_data_line">
+<area shape="rect" id="node1" title=" " alt="" coords="231,528,373,569"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1vcd__sc__unsigned__trace.html#a4b3129c99f190e019bb99fea4c7e170f" title=" " alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1vcd__sc__signed__trace.html#af6babdf6ffc4f3f6564ec6913b9aeb0a" title=" " alt="" coords="13,71,175,112"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1vcd__sc__uint__base__trace.html#a3c0964c572a47331f9033145d438c723" title=" " alt="" coords="21,136,167,177"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1vcd__sc__int__base__trace.html#a700119ed9147a381332a170912d8647b" title=" " alt="" coords="25,201,163,243"/>
+<area shape="rect" id="node6" href="$classsc__core_1_1vcd__sc__fxnum__trace.html#aebc5c09bae04b424dc4ef0bcd425027f" title=" " alt="" coords="13,267,175,308"/>
+<area shape="rect" id="node7" href="$classsc__core_1_1vcd__sc__fxnum__fast__trace.html#a9d9e92d1080791c64a8de6a1d477fbb1" title=" " alt="" coords="13,332,175,373"/>
+<area shape="rect" id="node8" href="$classsc__core_1_1vcd__unsigned__int__trace.html#afe480f3d826411da6051482c0d3530eb" title=" " alt="" coords="16,397,172,439"/>
+<area shape="rect" id="node9" href="$classsc__core_1_1vcd__unsigned__short__trace.html#ad584e4f8c2aca32ed4723ad62c43a2e1" title=" " alt="" coords="16,463,172,504"/>
+<area shape="rect" id="node10" href="$classsc__core_1_1vcd__unsigned__char__trace.html#ac00f5ebf5998c99c54bd49e7bc62844c" title=" " alt="" coords="16,528,172,569"/>
+<area shape="rect" id="node11" href="$classsc__core_1_1vcd__unsigned__long__trace.html#a0882b26e704ca713a49252bbde098f71" title=" " alt="" coords="16,593,172,635"/>
+<area shape="rect" id="node12" href="$classsc__core_1_1vcd__signed__int__trace.html#a7b6161a2fc9200c7643ef1cffa7d6a3d" title=" " alt="" coords="23,659,165,700"/>
+<area shape="rect" id="node13" href="$classsc__core_1_1vcd__signed__short__trace.html#a148ee839f7dbd4119a87b18564deacea" title=" " alt="" coords="23,724,165,765"/>
+<area shape="rect" id="node14" href="$classsc__core_1_1vcd__signed__char__trace.html#a3797c2c4ca6dd7ac10c8761ed6eb3755" title=" " alt="" coords="23,789,165,831"/>
+<area shape="rect" id="node15" href="$classsc__core_1_1vcd__int64__trace.html#a8903dba0323e7656af150e2283528ca2" title=" " alt="" coords="28,855,160,896"/>
+<area shape="rect" id="node16" href="$classsc__core_1_1vcd__uint64__trace.html#af779dc31d76cc9b717660378d6738f23" title=" " alt="" coords="25,920,163,961"/>
+<area shape="rect" id="node17" href="$classsc__core_1_1vcd__signed__long__trace.html#a4821c7d247ea205c291cabfd8ba34154" title=" " alt="" coords="23,985,165,1027"/>
+<area shape="rect" id="node18" href="$classsc__core_1_1vcd__enum__trace.html#aa8c81fc44d2d778a534f87763f3bf7cb" title=" " alt="" coords="8,1051,180,1092"/>
+</map>

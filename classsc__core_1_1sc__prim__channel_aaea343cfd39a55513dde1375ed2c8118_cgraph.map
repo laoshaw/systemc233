@@ -1,0 +1,7 @@
+<map id="sc_core::sc_prim_channel::async_request_update" name="sc_core::sc_prim_channel::async_request_update">
+<area shape="rect" id="node1" title=" " alt="" coords="5,50,180,91"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__prim__channel__registry.html#a3c5284e4a925a2aa52799be12b869607" title=" " alt="" coords="228,50,439,91"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__prim__channel__registry_1_1async__update__list.html#ad270fa31021925dfc33ac8992127e61d" title=" " alt="" coords="487,5,661,61"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1sc__object.html#a4da9c6e99326cd2619958e049625bc58" title=" " alt="" coords="508,86,640,127"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__host__semaphore.html#a7d97da6d9df0435b0c3eede6313b40fd" title=" " alt="" coords="709,13,903,54"/>
+</map>

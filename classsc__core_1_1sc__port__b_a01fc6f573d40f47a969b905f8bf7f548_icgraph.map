@@ -1,0 +1,12 @@
+<map id="sc_core::sc_port_b::get_interface" name="sc_core::sc_port_b::get_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="235,299,368,340"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__in_3_01bool_01_4.html#a91a099616c3ca5edf9c20ecdfe8c3194" title=" " alt="" coords="21,5,171,47"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__in_3_01sc__dt_1_1sc__logic_01_4.html#aecd6377f200f3e12d21c34c8ae66efcf" title=" " alt="" coords="27,71,165,127"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__inout_3_01bool_01_4.html#a9870522b2798034ebe269a2383be0b93" title=" " alt="" coords="7,152,185,193"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1sc__inout_3_01sc__dt_1_1sc__logic_01_4.html#aca9674305effb4d1b4d70aed9d652557" title=" " alt="" coords="29,218,163,274"/>
+<area shape="rect" id="node6" href="$classsc__core_1_1sc__in__resolved.html#a39a0669b9764c1dbb08e77f441bd3dc0" title=" " alt="" coords="15,299,177,340"/>
+<area shape="rect" id="node7" href="$classsc__core_1_1sc__inout__resolved.html#a2318a814c11bd3d03e32a17456c5e37e" title=" " alt="" coords="5,364,187,405"/>
+<area shape="rect" id="node8" href="$classsc__core_1_1sc__inout_3_01bool_01_4.html#ad957e218bd48ab0f0f1d760c4cc9fa9a" title=" " alt="" coords="29,429,163,471"/>
+<area shape="rect" id="node9" href="$classsc__core_1_1sc__inout_3_01sc__dt_1_1sc__logic_01_4.html#a728be270ddb616be5e7bf71f54ca7aea" title=" " alt="" coords="29,495,163,551"/>
+<area shape="rect" id="node10" href="$classsc__core_1_1sc__port__b.html#a8e23ab2bef0c0ddc12a0b59c942a3c0e" title=" " alt="" coords="29,576,163,617"/>
+</map>

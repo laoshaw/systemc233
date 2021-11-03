@@ -1,0 +1,12 @@
+<map id="sc_core::sc_signal&lt; sc_dt::sc_logic, POL &gt;" name="sc_core::sc_signal&lt; sc_dt::sc_logic, POL &gt;">
+<area shape="rect" id="node1" title=" " alt="" coords="375,1533,542,1816"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__signal__t.html" title=" " alt="" coords="375,1144,543,1485"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__signal__inout__if.html" title=" " alt="" coords="198,901,343,993"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__signal__in__if.html" title=" " alt="" coords="5,534,173,685"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1sc__interface.html" title=" " alt="" coords="107,152,253,273"/>
+<area shape="rect" id="node6" href="$classsc__core_1_1sc__signal__write__if.html" title=" " alt="" coords="197,549,344,670"/>
+<area shape="rect" id="node7" href="$classsc__core_1_1sc__signal__channel.html" title=" " alt="" coords="375,799,543,1096"/>
+<area shape="rect" id="node8" href="$classsc__core_1_1sc__prim__channel.html" title=" " alt="" coords="368,468,563,751"/>
+<area shape="rect" id="node9" href="$classsc__core_1_1sc__object.html" title=" " alt="" coords="385,5,545,420"/>
+<area shape="rect" id="node10" href="$structsc__core_1_1sc__writer__policy__check.html" title=" " alt="" coords="567,901,721,993"/>
+</map>

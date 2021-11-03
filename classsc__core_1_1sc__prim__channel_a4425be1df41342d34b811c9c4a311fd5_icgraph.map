@@ -1,0 +1,6 @@
+<map id="sc_core::sc_prim_channel::request_update" name="sc_core::sc_prim_channel::request_update">
+<area shape="rect" id="node1" title=" " alt="" coords="189,71,364,112"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__clock.html#af77fbcea93195f794e042dca9eed2db7" title=" " alt="" coords="5,5,141,47"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__clock.html#a80c5db81536238944f1afa04ebeb6f5e" title=" " alt="" coords="5,71,141,112"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__signal__resolved.html#ad077369ac06938b8fd1db1bfb55eb466" title=" " alt="" coords="8,136,139,177"/>
+</map>

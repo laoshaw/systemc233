@@ -1,0 +1,15 @@
+<map id="sc_core::wait" name="sc_core::wait">
+<area shape="rect" id="node1" title=" " alt="" coords="455,226,555,253"/>
+<area shape="rect" id="node2" href="$namespacesc__core.html#a6e780772c6f0f8a6e66ea277230485df" title=" " alt="" coords="248,17,391,43"/>
+<area shape="rect" id="node4" href="$namespacesc__core.html#aec044580defa60192763e3fe8bb208a3" title=" " alt="" coords="248,74,391,101"/>
+<area shape="rect" id="node6" href="$classsc__core_1_1sc__mutex.html#a4d35b4e8e0783193dec1a13a6a3607bd" title=" " alt="" coords="237,125,402,151"/>
+<area shape="rect" id="node7" href="$classsc__core_1_1sc__fifo.html#a89cf3e5b666c987dd5ae69e494b81e51" title=" " alt="" coords="245,175,393,202"/>
+<area shape="rect" id="node8" href="$namespacesc__core.html#af848df20862930872af89d0dcfbdac48" title=" " alt="" coords="240,226,399,253"/>
+<area shape="rect" id="node9" href="$classsc__core_1_1sc__prim__channel.html#aeb8ce70dffbe186c2e37652fe6d59999" title=" " alt="" coords="232,277,407,319"/>
+<area shape="rect" id="node10" href="$classsc__core_1_1sc__semaphore.html#aed1110cd56161d089bebf13b88d0d405" title=" " alt="" coords="239,343,400,384"/>
+<area shape="rect" id="node11" href="$namespacesc__core.html#a7867930073ee64f0885ca1043437c9fb" title=" " alt="" coords="269,409,369,435"/>
+<area shape="rect" id="node12" href="$classsc__core_1_1sc__fifo.html#a77683c8a029233f989ce0a1b54c9fb4d" title=" " alt="" coords="244,459,395,486"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__module.html#a1a02efb49e0f94bdfcdd5d8f17bf149e" title=" " alt="" coords="25,5,164,47"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1sc__module.html#a3e40a08ed38141622ee366b12bf0e126" title=" " alt="" coords="25,71,164,112"/>
+<area shape="rect" id="node13" href="$classsc__core_1_1sc__fifo.html#aca64911dd55c6feb8bd3ec1915fb81e9" title=" " alt="" coords="5,459,184,486"/>
+</map>

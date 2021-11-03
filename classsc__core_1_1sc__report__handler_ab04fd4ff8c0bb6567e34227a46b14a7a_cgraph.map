@@ -1,0 +1,29 @@
+<map id="sc_core::sc_report_handler::set_handler" name="sc_core::sc_report_handler::set_handler">
+<area shape="rect" id="node1" title=" " alt="" coords="5,463,152,504"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__report__handler.html#a3d4ee6fb85a22b72e455dceaf6fac12c" title=" " alt="" coords="200,463,367,504"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__process__b.html#a35cb7dad0a07d594dfcb6c5532e15b16" title=" " alt="" coords="435,113,578,155"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__report__handler.html#a7a817bed383f9e33bb3feb0f55a4b268" title=" " alt="" coords="415,179,599,220"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1sc__report.html#a143d64cd7f43607f3ba8e8567462120d" title=" " alt="" coords="662,5,793,47"/>
+<area shape="rect" id="node6" href="$classsc__core_1_1sc__report.html#ac27d91a69ccf0020469eb9eae6ed75dc" title=" " alt="" coords="662,71,793,112"/>
+<area shape="rect" id="node7" href="$classsc__core_1_1sc__report.html#a9f7921bdb38e29b38af00f1e1a9b3af5" title=" " alt="" coords="662,136,793,177"/>
+<area shape="rect" id="node8" href="$classsc__core_1_1sc__process__b.html#aba04382da34bacfdb87754205a33bdb3" title=" " alt="" coords="435,580,578,621"/>
+<area shape="rect" id="node9" href="$namespacesc__core.html#a1d9a44f88918dc3c41740b2783f715e4" title=" " alt="" coords="443,646,570,673"/>
+<area shape="rect" id="node10" href="$namespacesc__core.html#ad3aa291207c28551259ce33cdd47db6d" title=" " alt="" coords="425,463,588,504"/>
+<area shape="rect" id="node13" href="$namespacesc__core.html#ad0e39cf1351f50b1a3ab31bfee6b7bae" title=" " alt="" coords="419,697,595,723"/>
+<area shape="rect" id="node14" href="$namespacesc__core.html#a8dbf2ad39cac59cc29d8c7b2e4aedcda" title=" " alt="" coords="435,397,578,439"/>
+<area shape="rect" id="node22" href="$namespacesc__core.html#a56b6c2c479ae28c8ebf51a038659e820" title=" " alt="" coords="445,529,568,555"/>
+<area shape="rect" id="node25" href="$namespacesc__core.html#ac5dcd0844969c2442f6fd36a258f52dc" title=" " alt="" coords="429,747,584,774"/>
+<area shape="rect" id="node26" href="$classsc__core_1_1sc__log__file__handle.html#a6454916bc718a91b4bf5f7679400f84f" title=" " alt="" coords="418,820,595,861"/>
+<area shape="rect" id="node11" href="$classsc__core_1_1sc__simcontext.html#a805d160dbea38fffa421c1ed47b97388" title=" " alt="" coords="647,711,808,752"/>
+<area shape="rect" id="node12" href="$namespacesc__core.html#a84d407a02a02ab5bc1ce70aacfca86c4" title=" " alt="" coords="655,645,799,687"/>
+<area shape="rect" id="node15" href="$classsc__core_1_1sc__report.html#ad01a4cdca1ef09589b1d2d6827c6a955" title=" " alt="" coords="662,201,793,243"/>
+<area shape="rect" id="node16" href="$classsc__core_1_1sc__report.html#a8bdfdadb285609318d15fa61040ee4b1" title=" " alt="" coords="662,267,793,308"/>
+<area shape="rect" id="node17" href="$classsc__core_1_1sc__report.html#a7a8274efcf44f5b4f049251bab9ba646" title=" " alt="" coords="662,332,793,373"/>
+<area shape="rect" id="node18" href="$classsc__core_1_1sc__report.html#a6b74731b800e628939068b939134ad86" title=" " alt="" coords="662,397,793,439"/>
+<area shape="rect" id="node19" href="$classsc__core_1_1sc__report.html#a7e035220a07c6e7bef544df94d241b92" title=" " alt="" coords="657,463,797,504"/>
+<area shape="rect" id="node20" href="$namespacesc__core.html#ac58f07d42225f2a52b21d0836c0354f5" title=" " alt="" coords="649,529,805,555"/>
+<area shape="rect" id="node21" href="$classsc__core_1_1sc__time.html#aa31a79b1e42102172f230ab38dd1ee4e" title=" " alt="" coords="657,580,798,621"/>
+<area shape="rect" id="node23" href="$classsc__core_1_1sc__simcontext.html#ab9ac7560758f5f9929a513b7a931401a" title=" " alt="" coords="647,776,808,817"/>
+<area shape="rect" id="node24" href="$classsc__core_1_1sc__runnable.html#a08bcc8fa13b220c4f67db7cf3136e9a1" title=" " alt="" coords="856,776,1003,817"/>
+<area shape="rect" id="node27" href="$classsc__core_1_1sc__log__file__handle.html#a38c3ec8c9f9ec91eaad2b8c6f8cdd697" title=" " alt="" coords="658,841,797,883"/>
+</map>

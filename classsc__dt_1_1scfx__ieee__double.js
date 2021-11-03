@@ -1,0 +1,28 @@
+var classsc__dt_1_1scfx__ieee__double =
+[
+    [ "scfx_ieee_double", "classsc__dt_1_1scfx__ieee__double.html#a5a7d68abdd56c51ef7e2b05a2eac8378", null ],
+    [ "scfx_ieee_double", "classsc__dt_1_1scfx__ieee__double.html#a534df86488fb95122ddeea49a43f5d42", null ],
+    [ "scfx_ieee_double", "classsc__dt_1_1scfx__ieee__double.html#a02df9fc60364529ab713eb73ad5d8920", null ],
+    [ "operator=", "classsc__dt_1_1scfx__ieee__double.html#a9ae29b1eeb58677843e6aac2974a23f5", null ],
+    [ "operator=", "classsc__dt_1_1scfx__ieee__double.html#abd2254c8ecc21503fee6f41fa988eb12", null ],
+    [ "operator double", "classsc__dt_1_1scfx__ieee__double.html#a57f00addebd0d50b3491166f306d13a9", null ],
+    [ "negative", "classsc__dt_1_1scfx__ieee__double.html#ac9c3a68ae4e29cd86ad84de1ae4010fe", null ],
+    [ "negative", "classsc__dt_1_1scfx__ieee__double.html#a81c699d6d228518e5035309cd319cdc0", null ],
+    [ "exponent", "classsc__dt_1_1scfx__ieee__double.html#aeb377d63b97097ef0e4bf3642e3daad8", null ],
+    [ "exponent", "classsc__dt_1_1scfx__ieee__double.html#aab8608b977c52cf02c58de9f0b145e77", null ],
+    [ "mantissa0", "classsc__dt_1_1scfx__ieee__double.html#a944b8c7a64358daf88479550de0c0eee", null ],
+    [ "mantissa0", "classsc__dt_1_1scfx__ieee__double.html#abf26b070fa8ab564393f1e1d854cc16a", null ],
+    [ "mantissa1", "classsc__dt_1_1scfx__ieee__double.html#a3948455ea71d4de49de8ef802fcdb1b8", null ],
+    [ "mantissa1", "classsc__dt_1_1scfx__ieee__double.html#a9ff95f8631ac8116afabcddc6ddb71cd", null ],
+    [ "is_zero", "classsc__dt_1_1scfx__ieee__double.html#af1d4bd164da352a6ede40f083eade976", null ],
+    [ "is_subnormal", "classsc__dt_1_1scfx__ieee__double.html#ac78da65f48eaecb101d89f205f9935d0", null ],
+    [ "is_normal", "classsc__dt_1_1scfx__ieee__double.html#ad657814227cdb7140c88e5028c5ac116", null ],
+    [ "is_inf", "classsc__dt_1_1scfx__ieee__double.html#a0b0b791c39145f25c9108fbdd22f3344", null ],
+    [ "is_nan", "classsc__dt_1_1scfx__ieee__double.html#abda7158a1627add049f232e1c00b2da2", null ],
+    [ "set_inf", "classsc__dt_1_1scfx__ieee__double.html#a32e2b16fd19bca1427d817a813cb54b0", null ],
+    [ "set_nan", "classsc__dt_1_1scfx__ieee__double.html#a883335df4d7d21d319e0a520ac73290a", null ],
+    [ "msb", "classsc__dt_1_1scfx__ieee__double.html#a46557bb2d99183811a80f336b1358db6", null ],
+    [ "lsb", "classsc__dt_1_1scfx__ieee__double.html#ac4e098d9b3f732f47fbf66da27f6f5d3", null ],
+    [ "nan", "classsc__dt_1_1scfx__ieee__double.html#a08db862a296e41fa16c67f04f2a7a8c0", null ],
+    [ "inf", "classsc__dt_1_1scfx__ieee__double.html#a8b5d0366505e21b93e1aca4e21a9c389", null ]
+];

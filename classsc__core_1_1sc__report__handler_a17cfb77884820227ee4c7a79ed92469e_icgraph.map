@@ -1,0 +1,11 @@
+<map id="sc_core::sc_report_handler::set_actions" name="sc_core::sc_report_handler::set_actions">
+<area shape="rect" id="node1" title=" " alt="" coords="409,140,556,181"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__trace__file__base.html#a91348e323ea49aac8f7114efa917b162" title=" " alt="" coords="211,71,361,112"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1sc__report__handler.html#a52da5140c93b2950817a1d5a1555b399" title=" " alt="" coords="221,140,351,181"/>
+<area shape="rect" id="node6" href="$namespacesc__core.html#ade5c76eba1134d7ae108a489b15083ad" title=" " alt="" coords="225,213,347,239"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1vcd__trace__file.html#a6208d54a4a576c6e74c25cb0c01a885e" title=" " alt="" coords="17,5,151,47"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1wif__trace__file.html#ab65d8ae745dc1ed3a5865636d4a87a49" title=" " alt="" coords="19,71,149,112"/>
+<area shape="rect" id="node7" href="$classsc__core_1_1sc__inout_3_01bool_01_4.html#aa6e1f3c74bd125eac6dd735543156f96" title=" " alt="" coords="17,136,151,177"/>
+<area shape="rect" id="node8" href="$classsc__core_1_1sc__inout_3_01sc__dt_1_1sc__logic_01_4.html#a9ce9f33232e45ba995812402063e3b22" title=" " alt="" coords="17,202,151,258"/>
+<area shape="rect" id="node9" href="$classsc__core_1_1sc__byte__heap.html#ab804a187058af80cf0deebde1b4e1b69" title=" " alt="" coords="5,283,163,324"/>
+</map>

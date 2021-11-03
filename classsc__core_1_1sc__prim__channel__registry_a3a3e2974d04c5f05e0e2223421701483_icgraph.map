@@ -1,0 +1,8 @@
+<map id="sc_core::sc_prim_channel_registry::request_update" name="sc_core::sc_prim_channel_registry::request_update">
+<area shape="rect" id="node1" title=" " alt="" coords="412,50,587,91"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__prim__channel__registry_1_1async__update__list.html#a642cc41b641332ffab56c0e0a135f9da" title=" " alt="" coords="189,5,364,61"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__prim__channel.html#a4425be1df41342d34b811c9c4a311fd5" title=" " alt="" coords="189,86,364,127"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__clock.html#af77fbcea93195f794e042dca9eed2db7" title=" " alt="" coords="5,21,141,62"/>
+<area shape="rect" id="node5" href="$classsc__core_1_1sc__clock.html#a80c5db81536238944f1afa04ebeb6f5e" title=" " alt="" coords="5,86,141,127"/>
+<area shape="rect" id="node6" href="$classsc__core_1_1sc__signal__resolved.html#ad077369ac06938b8fd1db1bfb55eb466" title=" " alt="" coords="8,151,139,193"/>
+</map>

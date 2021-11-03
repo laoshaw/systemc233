@@ -1,0 +1,27 @@
+<map id="sc_nbutils.cpp" name="sc_nbutils.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="208,5,315,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,87,67,114"/>
+<area shape="rect" id="node3" title=" " alt="" coords="222,423,279,449"/>
+<area shape="rect" id="node4" title=" " alt="" coords="141,87,203,114"/>
+<area shape="rect" id="node5" title=" " alt="" coords="227,87,296,114"/>
+<area shape="rect" id="node6" href="$sc__int__ids_8h.html" title=" " alt="" coords="142,169,271,211"/>
+<area shape="rect" id="node15" href="$sc__nbutils_8h.html" title=" " alt="" coords="391,80,521,121"/>
+<area shape="rect" id="node25" href="$sc__macros_8h.html" title=" " alt="" coords="988,259,1156,285"/>
+<area shape="rect" id="node7" href="$sc__report_8h.html" title=" " alt="" coords="236,259,383,285"/>
+<area shape="rect" id="node8" title=" " alt="" coords="143,341,222,367"/>
+<area shape="rect" id="node9" title=" " alt="" coords="246,341,301,367"/>
+<area shape="rect" id="node10" href="$sc__cmnhdr_8h.html" title=" " alt="" coords="486,341,653,367"/>
+<area shape="rect" id="node14" href="$sc__report__handler_8h.html" title=" " alt="" coords="325,333,461,375"/>
+<area shape="rect" id="node11" title=" " alt="" coords="450,423,515,449"/>
+<area shape="rect" id="node12" title=" " alt="" coords="539,423,599,449"/>
+<area shape="rect" id="node13" title=" " alt="" coords="624,423,683,449"/>
+<area shape="rect" id="node16" title=" " alt="" coords="347,177,405,203"/>
+<area shape="rect" id="node17" title=" " alt="" coords="429,177,483,203"/>
+<area shape="rect" id="node18" href="$sc__bit__ids_8h.html" title=" " alt="" coords="507,169,637,211"/>
+<area shape="rect" id="node19" href="$sc__nbdefs_8h.html" title=" " alt="" coords="661,169,790,211"/>
+<area shape="rect" id="node23" title=" " alt="" coords="814,177,853,203"/>
+<area shape="rect" id="node24" title=" " alt="" coords="877,177,947,203"/>
+<area shape="rect" id="node20" title=" " alt="" coords="607,259,667,285"/>
+<area shape="rect" id="node21" title=" " alt="" coords="691,259,757,285"/>
+<area shape="rect" id="node22" href="$sc__constants_8h.html" title=" " alt="" coords="781,259,963,285"/>
+</map>

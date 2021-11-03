@@ -1,0 +1,20 @@
+<map id="sc_core::sc_port_b::get_interface" name="sc_core::sc_port_b::get_interface">
+<area shape="rect" id="node1" title=" " alt="" coords="853,158,987,199"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__reset.html#a732c158b35aa3c2907b12d6cacbdbc97" title=" " alt="" coords="671,61,805,102"/>
+<area shape="rect" id="node7" href="$classsc__core_1_1sc__reset.html#afc2b882210ced8ab477a2157141b6809" title=" " alt="" coords="671,158,805,199"/>
+<area shape="rect" id="node8" href="$namespacesc__core.html#a63e743f63156d59271decb26ae3d4475" title=" " alt="" coords="675,312,801,339"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__simcontext.html#a1308e4a85e567b0f8f67c6a4aefcfc3b" title=" " alt="" coords="453,27,614,69"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__simcontext.html#aa9fe599fe163deeabe4a1f5d119f8d4f" title=" " alt="" coords="225,27,386,69"/>
+<area shape="rect" id="node5" href="$namespacesc__core.html#a6737ccd9ad127f1090e56353354b4274" title=" " alt="" coords="14,5,158,32"/>
+<area shape="rect" id="node6" href="$classsc__core_1_1sc__simcontext.html#a1584d0dcd7cfb3926790abe371c56667" title=" " alt="" coords="5,57,167,98"/>
+<area shape="rect" id="node9" href="$classsc__core_1_1sc__in.html#af0a68f8f0a534dc7d6bdc411e8f86688" title=" " alt="" coords="465,93,601,134"/>
+<area shape="rect" id="node11" href="$classsc__core_1_1sc__in_3_01bool_01_4.html#a91a099616c3ca5edf9c20ecdfe8c3194" title=" " alt="" coords="458,158,609,199"/>
+<area shape="rect" id="node12" href="$classsc__core_1_1sc__in_3_01sc__dt_1_1sc__logic_01_4.html#aecd6377f200f3e12d21c34c8ae66efcf" title=" " alt="" coords="465,224,602,280"/>
+<area shape="rect" id="node13" href="$classsc__core_1_1sc__inout.html#aa33df1f4d84b077722d0ffa90d595b58" title=" " alt="" coords="467,305,600,346"/>
+<area shape="rect" id="node15" href="$classsc__core_1_1sc__inout_3_01bool_01_4.html#a9870522b2798034ebe269a2383be0b93" title=" " alt="" coords="444,370,623,411"/>
+<area shape="rect" id="node16" href="$classsc__core_1_1sc__inout_3_01sc__dt_1_1sc__logic_01_4.html#aca9674305effb4d1b4d70aed9d652557" title=" " alt="" coords="466,436,601,492"/>
+<area shape="rect" id="node17" href="$classsc__core_1_1sc__fifo.html#a8d9042f97307b6d5529079778b4637db" title=" " alt="" coords="457,516,609,543"/>
+<area shape="rect" id="node18" href="$classsc__core_1_1sc__signal__t.html#a9f3476b58602377a0016fb2ac9af9a50" title=" " alt="" coords="468,567,599,609"/>
+<area shape="rect" id="node10" href="$classsc__core_1_1sc__in__resolved.html#a39a0669b9764c1dbb08e77f441bd3dc0" title=" " alt="" coords="224,93,387,134"/>
+<area shape="rect" id="node14" href="$classsc__core_1_1sc__inout__resolved.html#a2318a814c11bd3d03e32a17456c5e37e" title=" " alt="" coords="215,305,396,346"/>
+</map>

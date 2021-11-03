@@ -1,0 +1,6 @@
+<map id="sc_core::sc_process_b::trigger_reset_event" name="sc_core::sc_process_b::trigger_reset_event">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,160,80"/>
+<area shape="rect" id="node2" href="$classsc__core_1_1sc__event.html#a508e0834831a837004f11e1fdc9a1bdf" title=" " alt="" coords="208,39,345,80"/>
+<area shape="rect" id="node3" href="$classsc__core_1_1sc__event.html#a6e5b463c02412fadaac74a14b03e0858" title=" " alt="" coords="405,5,543,47"/>
+<area shape="rect" id="node4" href="$classsc__core_1_1sc__simcontext.html#a3fae4b327b8098cad0571b1b8977040f" title=" " alt="" coords="393,71,555,112"/>
+</map>

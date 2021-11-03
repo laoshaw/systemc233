@@ -1,0 +1,52 @@
+<map id="sc_sensitive.cpp" name="sc_sensitive.cpp">
+<area shape="rect" id="node1" title=" " alt="" coords="773,5,893,32"/>
+<area shape="rect" id="node2" href="$sc__event_8h.html" title=" " alt="" coords="1374,623,1531,650"/>
+<area shape="rect" id="node8" href="$sc__kernel__ids_8h.html" title=" " alt="" coords="481,1197,630,1239"/>
+<area shape="rect" id="node29" href="$sc__process__handle_8h.html" title=" " alt="" coords="1147,795,1307,836"/>
+<area shape="rect" id="node30" href="$sc__module_8h.html" title=" " alt="" coords="1144,884,1311,911"/>
+<area shape="rect" id="node32" href="$sc__sensitive_8h.html" title=" " alt="" coords="721,966,899,993"/>
+<area shape="rect" id="node38" href="$sc__cthread__process_8h.html" title=" " alt="" coords="562,80,719,121"/>
+<area shape="rect" id="node39" href="$sc__thread__process_8h.html" title=" " alt="" coords="580,169,731,211"/>
+<area shape="rect" id="node41" href="$sc__signal__ports_8h.html" title=" " alt="" coords="785,348,928,389"/>
+<area shape="rect" id="node49" href="$sc__method__process_8h.html" title=" " alt="" coords="374,169,531,211"/>
+<area shape="rect" id="node50" href="$sc__utils__ids_8h.html" title=" " alt="" coords="1607,80,1733,121"/>
+<area shape="rect" id="node3" href="$sc__cmnhdr_8h.html" title=" " alt="" coords="1401,1458,1568,1485"/>
+<area shape="rect" id="node13" href="$sc__simcontext_8h.html" title=" " alt="" coords="1361,1048,1550,1075"/>
+<area shape="rect" id="node28" href="$sc__writer__policy_8h.html" title=" " alt="" coords="1265,705,1408,747"/>
+<area shape="rect" id="node4" title=" " alt="" coords="879,1540,944,1567"/>
+<area shape="rect" id="node5" title=" " alt="" coords="1952,1540,2009,1567"/>
+<area shape="rect" id="node6" title=" " alt="" coords="1277,1540,1337,1567"/>
+<area shape="rect" id="node7" title=" " alt="" coords="177,1540,235,1567"/>
+<area shape="rect" id="node9" href="$sc__report_8h.html" title=" " alt="" coords="265,1376,411,1403"/>
+<area shape="rect" id="node10" title=" " alt="" coords="136,1458,215,1485"/>
+<area shape="rect" id="node11" title=" " alt="" coords="420,1458,475,1485"/>
+<area shape="rect" id="node12" href="$sc__report__handler_8h.html" title=" " alt="" coords="259,1451,395,1492"/>
+<area shape="rect" id="node14" href="$sc__process_8h.html" title=" " alt="" coords="737,1123,907,1149"/>
+<area shape="rect" id="node22" href="$sc__status_8h.html" title=" " alt="" coords="1409,1205,1571,1231"/>
+<area shape="rect" id="node23" href="$sc__time_8h.html" title=" " alt="" coords="1049,1123,1200,1149"/>
+<area shape="rect" id="node26" href="$sc__hash_8h.html" title=" " alt="" coords="1276,1123,1419,1149"/>
+<area shape="rect" id="node27" href="$sc__pq_8h.html" title=" " alt="" coords="1494,1123,1622,1149"/>
+<area shape="rect" id="node15" href="$sc__constants_8h.html" title=" " alt="" coords="940,1294,1123,1321"/>
+<area shape="rect" id="node16" href="$sc__object_8h.html" title=" " alt="" coords="755,1294,915,1321"/>
+<area shape="rect" id="node18" href="$sc__export_8h.html" title=" " alt="" coords="655,1197,797,1239"/>
+<area shape="rect" id="node17" title=" " alt="" coords="1198,1376,1270,1403"/>
+<area shape="rect" id="node19" href="$sc__communication__ids_8h.html" title=" " alt="" coords="315,1287,486,1328"/>
+<area shape="rect" id="node20" href="$sc__interface_8h.html" title=" " alt="" coords="1675,1287,1817,1328"/>
+<area shape="rect" id="node21" href="$sc__typeindex_8h.html" title=" " alt="" coords="561,1294,731,1321"/>
+<area shape="rect" id="node24" href="$sc__nbdefs_8h.html" title=" " alt="" coords="975,1197,1104,1239"/>
+<area shape="rect" id="node25" href="$scfx__ieee_8h.html" title=" " alt="" coords="1179,1197,1334,1239"/>
+<area shape="rect" id="node31" href="$sc__module__name_8h.html" title=" " alt="" coords="1127,959,1283,1000"/>
+<area shape="rect" id="node33" href="$sc__wait_8h.html" title=" " alt="" coords="1358,966,1507,993"/>
+<area shape="rect" id="node34" href="$sc__wait__cthread_8h.html" title=" " alt="" coords="1582,959,1721,1000"/>
+<area shape="rect" id="node37" href="$sc__list_8h.html" title=" " alt="" coords="1590,1048,1721,1075"/>
+<area shape="rect" id="node35" href="$sc__logic_8h.html" title=" " alt="" coords="1841,1287,1971,1328"/>
+<area shape="rect" id="node36" href="$sc__macros_8h.html" title=" " alt="" coords="1775,1376,1943,1403"/>
+<area shape="rect" id="node40" href="$sc__spawn__options_8h.html" title=" " alt="" coords="467,259,619,300"/>
+<area shape="rect" id="node46" href="$sc__cor_8h.html" title=" " alt="" coords="436,1376,579,1403"/>
+<area shape="rect" id="node47" href="$sc__except_8h.html" title=" " alt="" coords="44,355,208,382"/>
+<area shape="rect" id="node48" href="$sc__reset_8h.html" title=" " alt="" coords="1105,445,1259,471"/>
+<area shape="rect" id="node42" href="$sc__event__finder_8h.html" title=" " alt="" coords="832,437,975,479"/>
+<area shape="rect" id="node43" href="$sc__port_8h.html" title=" " alt="" coords="827,527,969,568"/>
+<area shape="rect" id="node44" href="$sc__signal__ifs_8h.html" title=" " alt="" coords="1156,616,1299,657"/>
+<area shape="rect" id="node45" href="$sc__trace_8h.html" title=" " alt="" coords="1035,1048,1193,1075"/>
+</map>
